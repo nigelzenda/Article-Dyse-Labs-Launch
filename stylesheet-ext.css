@@ -1,0 +1,15 @@
+h1{
+    color: yellow;
+  }
+  
+  .writername {
+    font-family: Helvetica;
+    color: rgb(255, 196, 0);
+    float: left;
+    font-size: 14px;
+    padding-left: 10px;
+    text-transform: uppercase;
+  }
+
+
+  /* Imagine this is a CSS library that contains a lot of other good styles. */
